@@ -26,10 +26,15 @@ Key Features:
 
 Dependencies:
 -------------
-To ensure compatibility with PyTorch Geometric and other core libraries, use the following conda environment:
+Install the required Python packages before running the scripts:
 
 ```bash
-Conda_environment/pytorch_gnn.tar.gz
+pip install numpy
+pip install pandas
+pip install scikit-learn
+pip install matplotlib
+pip install torch
+pip install torch-geometric
 ```
 
 -------------
