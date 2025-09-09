@@ -72,5 +72,13 @@ Python Files Descriptions:
 •	MLS_intrp_function.py: Implements MLS interpolation using polynomial basis and Gaussian kernels.
 •	Reduced_space_PDF_function.py: Selects nodes for reduced graphs based on probabilistic pressure-gradient sampling.
 
+Citation
+
+If you use this code or dataset in your research, please cite:
+G. Immordino, A. Vaiuso, A. Da Ronch, and M. Righi.  
+Predicting transonic flowfields in non–homogeneous unstructured grids using autoencoder graph convolutional networks.  
+Journal of Computational Physics, page 113708, 2025.  
+https://doi.org/10.1016/j.jcp.2024.113708
+
 
 Author: Gabriele Immordino
