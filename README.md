@@ -73,8 +73,10 @@ Python Files Descriptions:
 •	Reduced_space_PDF_function.py: Selects nodes for reduced graphs based on probabilistic pressure-gradient sampling.
 
 Citation
+--------
 
 If you use this code or dataset in your research, please cite:
+
 G. Immordino, A. Vaiuso, A. Da Ronch, and M. Righi.  
 Predicting transonic flowfields in non–homogeneous unstructured grids using autoencoder graph convolutional networks.  
 Journal of Computational Physics, page 113708, 2025.  
